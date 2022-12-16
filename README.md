@@ -1,3 +1,4 @@
+Clone this git https://github.com/duynguyenjohnny/funding-cypress-automation.git
 # cypress-api-testing
 
 1. Download and install Nodejs, Cypress
